@@ -1,0 +1,8 @@
+{
+    "name": "user/uas-pem-web",
+    "description": "UAS Pemrograman Web",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    }
+}
